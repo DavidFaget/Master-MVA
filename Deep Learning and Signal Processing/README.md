@@ -2,3 +2,4 @@
 ## Projects done:
 - TP1: Application of basic concepts (visualisation, spectrogram, spectral density, Welch's method, pitch estimation, impulse detection).
 - TP2: Radar threat detection (machine learning).
+- TP3: Signal classification and SNR analysis (deep learning).
