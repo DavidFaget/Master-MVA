@@ -1,5 +1,5 @@
 # Title of the project: Variational autoencoders: graphical models for (semi) supervision
-# Objective: study, critique, comment and implement the paper [1].
+## Objective: study, critique, comment and implement the paper [1].
 
 In the context of our project, we will specifically focus on the application of the proposed Characteristic
 Capturing Variational Autoencoder (CCVAE) framework [1]. The paper introduces CCVAE as a novel model
