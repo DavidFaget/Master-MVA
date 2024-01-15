@@ -26,9 +26,9 @@ https://doi.org/10.5201/ipol.2012.g-ace.
 [3] Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning.
 MIT Press, 2016. http://www.deeplearningbook.org
 
-[4] Zhou Wang, A.C. Bovik, H.R. Sheikh, et E.P. Simoncelli. Image quality assessment: from error visibility to structural similarity. IEEE Transactions on Image Processing, 13(4):600–612, 2004.10.1109/TIP.2003.819861.
+[4] Zhou Wang, A.C. Bovik, H.R. Sheikh, et E.P. Simoncelli. Image quality assessment: from error visibility to structural similarity. IEEE Transactions on Image Processing, 13(4):600–612, 2004.10.1109/TIP.2003.819861.
 
-[5] Raimondo Schettini, Silvia Corchs. Underwater Image Processing: State of the Art of Restoration and Image Enhancement Methods. EURASIP Journal on Advances in Signal Processing, 2010.
+[5] Raimondo Schettini, Silvia Corchs. Underwater Image Processing: State of the Art of Restoration and Image Enhancement Methods. EURASIP Journal on Advances in Signal Processing, 2010.
 https://doi.org/10.1155/2010/746052.
 
 [6] L. Abril Torres-Mendez and Gregory Dudek. ´ Color Correction of
