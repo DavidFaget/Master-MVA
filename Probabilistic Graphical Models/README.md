@@ -1,5 +1,5 @@
-# Title of the project: Variational autoencoders: graphical models for (semi) supervision
-## Objective: study, critique, comment and implement the paper [1].
+# Introduction to Probabilistic Graphical Models and Deep Generative Models - P. LATOUCHE, P.A. MATTEI
+## Title of the project: Variational autoencoders: graphical models for (semi) supervision
 
 In the context of our project, we will specifically focus on the application of the proposed Characteristic
 Capturing Variational Autoencoder (CCVAE) framework [1]. The paper introduces CCVAE as a novel model
@@ -10,6 +10,7 @@ where labels are typically associated with a partially observed augmentation of 
 authors contend that this common practice may fall short in capturing the nuanced characteristic information
 linked to labels.
 
+## Bibliography 
 
 [1] T. Joy, S. M. Schmon, P. H. S. Torr, S. Narayanaswamy, and T. Rainforth, “Capturing label characteristics
 in VAEs,” in Proc. Int. Conf. Learn. Representations, 2021.
