@@ -1,4 +1,5 @@
-# Title of the project: Underwater image processing
+# Introduction to Numerical Imaging - J. DELON,Y. GOUSSEAU
+## Title of the project: Underwater image processing
 
 The challenge of recovering accurate colors and
 shapes in underwater scenes has prompted various imaging
