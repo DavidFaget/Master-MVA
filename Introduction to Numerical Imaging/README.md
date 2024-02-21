@@ -1,4 +1,4 @@
-# Introduction to Numerical Imaging - J. DELON,Y. GOUSSEAU
+# Introduction to Digital Imaging - J. DELON,Y. GOUSSEAU
 ## Title of the project: Underwater image processing
 
 The challenge of recovering accurate colors and
