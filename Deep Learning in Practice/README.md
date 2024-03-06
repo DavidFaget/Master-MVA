@@ -2,3 +2,4 @@
 
 ## Assignments:
 - TP2: Interpretability (GradCAM)
+- TP3: Architectures (Graph Neural Networks)
